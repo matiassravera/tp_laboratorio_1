@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1523380556 source:c:\trabajo practico número 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523381639 source:c:\trabajo practico número 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523377264 c:\trabajo practico número 1\funciones.h
+
+1523563457 source:c:\users\musashi\desktop\mati\trabajo practico número 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523377264 c:\users\musashi\desktop\mati\trabajo practico número 1\funciones.h
+
+1523509611 source:c:\users\musashi\desktop\mati\trabajo practico número 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523592256 source:c:\users\usuario\downloads\tp_laboratorio_1-master\trabajo practico número 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523592256 c:\users\usuario\downloads\tp_laboratorio_1-master\trabajo practico número 1\funciones.h
+
+1523592256 source:c:\users\usuario\downloads\tp_laboratorio_1-master\trabajo practico número 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536023358 source:c:\users\musashi\desktop\tp_laboratorio_1-master\trabajo practico número 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536036916 c:\users\musashi\desktop\tp_laboratorio_1-master\trabajo practico número 1\funciones.h
+
+1536039419 source:c:\users\musashi\desktop\tp_laboratorio_1-master\trabajo practico número 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536039419 source:c:\users\musashi\desktop\tp_laboratorio_1-master\trabajo practico número 1 - calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536036916 c:\users\musashi\desktop\tp_laboratorio_1-master\trabajo practico número 1 - calculadora\funciones.h
+
+1536023358 source:c:\users\musashi\desktop\tp_laboratorio_1-master\trabajo practico número 1 - calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
